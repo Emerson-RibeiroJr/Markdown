@@ -1,5 +1,5 @@
-# Markdown
-## Markdown
+# Markdown - Este material foi aprendido através do [curso em vídeo](https://www.youtube.com/channel/UCrWvhVmt0Qac3HgsjQK62FQ)
+## Markdown - Lembre-se o Professor [Gustavo Guanabara](https://www.instagram.com/gustavoguanabara/) ajuda muitas pessoas, **ajude-o** também!!
 ### Markdown
 ---
  Aprendendo algumas Markdown
