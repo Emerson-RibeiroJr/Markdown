@@ -47,7 +47,7 @@ else:
 
 Emoticon:
 Boa noite rapaziada! :vulcan_salute :hand:
-[Ikatyang](github.com/ikatyang) --> esta moça disponibilizou os atalhos para os emoticons na _**Área de socialização do GitHub**_
+[Ikatyang](https://github.com/ikatyang) --> esta moça disponibilizou os atalhos para os emoticons na _**Área de socialização do GitHub**_
 Na área de repositories pesquisar por: (emogi-cheat-sheet)
 
 **Existe também o [Link para emoticons](https://emojipedia.org/)**
